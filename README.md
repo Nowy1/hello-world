@@ -1,2 +1,2 @@
-# hello-world
-just another repository
+hello people 
+my name is Damian
